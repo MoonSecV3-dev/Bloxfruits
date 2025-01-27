@@ -467,7 +467,7 @@ UltButtonExt.Text = ""
 UltButtonExt.TextColor3 = Color3.fromRGB(0, 0, 0)
 UltButtonExt.TextSize = 14.000
 UltButtonExt.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/RealBypass",true))()
 end)
 
 HolButtonExt.Name = "HolButtonExt"
@@ -482,7 +482,7 @@ HolButtonExt.Text = ""
 HolButtonExt.TextColor3 = Color3.fromRGB(0, 0, 0)
 HolButtonExt.TextSize = 14.000
 HolButtonExt.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/RealBypass",true))()
 end)
 
 DaiButtonExt.Name = "DaiButtonExt"
@@ -498,7 +498,7 @@ DaiButtonExt.Text = ""
 DaiButtonExt.TextColor3 = Color3.fromRGB(0, 0, 0)
 DaiButtonExt.TextSize = 14.000
 DaiButtonExt.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/RealBypass",true))()
 end)
 
 ImageButton.Parent = ScrollingFrame
@@ -625,7 +625,7 @@ DisButtonExt.Text = ""
 DisButtonExt.TextColor3 = Color3.fromRGB(0, 0, 0)
 DisButtonExt.TextSize = 14.000
 DisButtonExt.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/RealBypass",true))()
 end)
 
 UIScale_2.Parent = MainGui
