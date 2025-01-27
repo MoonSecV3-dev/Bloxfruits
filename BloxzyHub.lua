@@ -1543,7 +1543,7 @@ NormalButton.Text = "Normal Stock"
 NormalButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 NormalButton.TextSize = 14.000
 NormalButton.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 	
 end)
 
 UICorner_8.CornerRadius = UDim.new(0, 5)
@@ -1561,7 +1561,7 @@ MirageButton.Text = "Mirage Stock"
 MirageButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 MirageButton.TextSize = 14.000
 MirageButton.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 	
 end)
 
 UICorner_9.CornerRadius = UDim.new(0, 5)
@@ -1584,7 +1584,7 @@ FTbutton.Text = "TURN ON"
 FTbutton.TextColor3 = Color3.fromRGB(255, 255, 255)
 FTbutton.TextSize = 14.000
 FTbutton.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 	
 end)
 
 UICorner_10.CornerRadius = UDim.new(0, 5)
@@ -1602,7 +1602,7 @@ FRButton.Text = "TURN ON"
 FRButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 FRButton.TextSize = 14.000
 FRButton.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 	
 end)
 
 UICorner_11.CornerRadius = UDim.new(0, 5)
@@ -1824,7 +1824,7 @@ ExitButton.Text = ""
 ExitButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 ExitButton.TextSize = 14.000
 ExitButton.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 	
 end)
 
 UICorner_20.CornerRadius = UDim.new(0, 5)
@@ -1869,7 +1869,7 @@ SettingsButton.Text = "Settings"
 SettingsButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 SettingsButton.TextSize = 14.000
 SettingsButton.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 	
 end)
 
 
@@ -1928,7 +1928,7 @@ StartGuiButton.Text = "Start Inject"
 StartGuiButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 StartGuiButton.TextSize = 14.000
 StartGuiButton.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonSecV3-dev/Bloxfruits/refs/heads/main/MoonsecV3/Obfuscated",true))() 	
 	end)
 
 UICorner_24.Parent = StartGuiButton
